@@ -1,0 +1,11 @@
+scrappey:
+  api_key: "IOaNuHGZcAbHGrhFXsJKsfpXPHBwH5HWeHG2Jo91COAAAcc2bn46oOjYG6K2"
+
+proxy:
+  http: "http://ln4k1u9be3m2jze-country-any:XJi386n4rosUGuN@resi.rainproxy.io:9090"
+  https: "http://ln4k1u9be3m2jze-country-any:XJi386n4rosUGuN@resi.rainproxy.io:9090"
+
+settings:
+  threads: 10
+
+license_key : "asad:1345430429620244581:as"
